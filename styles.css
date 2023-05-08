@@ -1,0 +1,25 @@
+div.square-01{
+  border: double purple;
+  border-width: 20px;
+  width:  400px;
+  height: 400px;
+  margin-left: 100px;
+  margin-top:  50px;
+}
+div.square-02{
+  border: 20px solid darkorchid;
+  width:  360px;
+  height: 360px;
+}
+div.square-03{
+  border-left:   10px solid red;
+  border-top:    10px solid red;
+  border-right:  2px solid red;
+  border-bottom: 2px solid red;
+  width:  350px;
+  height: 350px;
+}
+img.rosa{
+  width:  350px;
+  height: 350px;
+}
